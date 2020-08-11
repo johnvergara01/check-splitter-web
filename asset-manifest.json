@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/check-splitter-web/static/css/main.139e70dd.chunk.css",
+    "main.js": "/check-splitter-web/static/js/main.91fe9736.chunk.js",
+    "main.js.map": "/check-splitter-web/static/js/main.91fe9736.chunk.js.map",
+    "runtime-main.js": "/check-splitter-web/static/js/runtime-main.b8698ae7.js",
+    "runtime-main.js.map": "/check-splitter-web/static/js/runtime-main.b8698ae7.js.map",
+    "static/js/2.78a9891d.chunk.js": "/check-splitter-web/static/js/2.78a9891d.chunk.js",
+    "static/js/2.78a9891d.chunk.js.map": "/check-splitter-web/static/js/2.78a9891d.chunk.js.map",
+    "index.html": "/check-splitter-web/index.html",
+    "precache-manifest.714bf6359a036b3eb72dc518465cce9c.js": "/check-splitter-web/precache-manifest.714bf6359a036b3eb72dc518465cce9c.js",
+    "service-worker.js": "/check-splitter-web/service-worker.js",
+    "static/css/main.139e70dd.chunk.css.map": "/check-splitter-web/static/css/main.139e70dd.chunk.css.map",
+    "static/js/2.78a9891d.chunk.js.LICENSE.txt": "/check-splitter-web/static/js/2.78a9891d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8698ae7.js",
+    "static/js/2.78a9891d.chunk.js",
+    "static/css/main.139e70dd.chunk.css",
+    "static/js/main.91fe9736.chunk.js"
+  ]
+}
